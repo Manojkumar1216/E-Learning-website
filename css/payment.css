@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(214, 212, 212);
+    
+     /* background: url('../images/pay.jpg');  */
+}
+
+a{
+    text-decoration: none;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: rgba(246, 243, 243, 0.712);
+    border-radius: 10px;
+  }
+
+.container h1{
+    text-align: center;
+    padding: 0 0 20px 0 ;
+    border-bottom: 1px solid silver;
+}
+
+.container p{
+    text-align: center;
+}
+
+.text{
+    padding: 40px 40px 0px 50px ;
+}
+
+.card{
+    margin: 0 0 10px 40px;
+}
+
+.card .crd{
+    width: 15%;
+    padding:0 5px 5px 5px;
+}
+
+.box{
+    margin-bottom: 20px;
+    width: 90%;
+    height: 30px;
+}
+.submit_btn{
+    padding: 10px 30px 30px 50px  ;
+    
+}
+
+.submit{
+    color: white;
+    background:rgb(73, 133, 67);
+    border: 1px;
+    width: 72%;
+    height: 35px;
+    margin-bottom: 40px;
+}
+
+.submit:hover{
+    color: black;
+}

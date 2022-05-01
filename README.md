@@ -1,3 +1,3 @@
 # skillsharp.github.io
 
-its a E-Learning demo website 
+It's a E-Learning demo website 

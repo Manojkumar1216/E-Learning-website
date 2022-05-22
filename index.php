@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>index</title>
+    <title>SkillSharp</title>
+    <link rel="shortcut icon" href="images/favicon1.png" sizes="32x32" type="image/png">
     <link rel="stylesheet" href="CSS/style.css">
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
@@ -30,7 +31,7 @@
         <h2>Enhance Your Future With SkillSharp</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium consequatur iste nemo ipsa eius dolore error quaerat quidem dignissimos iure?</p>
         <div class="btn">
-            <a href="" class="blue">Learn more</a>
+            <a href="about.php" class="blue">Learn more</a>
             <a href="course.php" class="yellow">Visit Courses</a>
         </div>
     </section>
